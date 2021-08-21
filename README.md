@@ -8,4 +8,4 @@ Dies ist ein komplettes Managementsystem für den Einkauf, Verkauf und die Lager
 Il s'agit d'un système complet de gestion d'achat, de vente et de stockage de médicaments basé sur la structure C/S, qui comprend les ventes, l'approvisionnement, la gestion des entrepôts et d'autres processus. Il a été développé par moi-même et simplement conçu comme un travail de cours universitaire.
 Se trata de un completo sistema de gestión de compra, venta y almacenamiento de medicamentos basado en la estructura C / S, que incluye ventas, aprovisionamiento, gestión de almacenes y otros procesos. Fue desarrollado por mí mismo y diseñado como un trabajo de curso universitario.
 
-More languages looks richer than one.. haha
+More languages looks more popular and richer.. haha
